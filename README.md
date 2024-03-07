@@ -31,3 +31,4 @@ Análise de Dados: A busca cognitiva pode ser aplicada para analisar grandes con
 identificar padrões, tendências e insights ocultos que podem ser úteis para empresas em tomadas 
 de decisão estratégicas.
 
+<img src="README_IMGS/Captura de tela 2024-03-06 213602.png">
